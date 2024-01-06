@@ -1,0 +1,8 @@
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/ProductServiceApplication.java
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/repository/ProductRepository.java
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/controller/ProductController.java
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/dto/ProductRequest.java
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/mapper/ProductMapper.java
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/model/Product.java
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/service/ProductService.java
+/mnt/d/SITA/APPS-DEV/side-workspace/microservices-parent/product-service/src/main/java/com/ntsako/productservice/dto/ProductResponse.java

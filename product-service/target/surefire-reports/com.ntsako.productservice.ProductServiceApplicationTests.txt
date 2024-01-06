@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ntsako.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 139.1 s -- in com.ntsako.productservice.ProductServiceApplicationTests

@@ -1,0 +1,11 @@
+com/ntsako/productservice/mapper/ProductMapper.class
+com/ntsako/productservice/dto/ProductRequest.class
+com/ntsako/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/ntsako/productservice/model/Product.class
+com/ntsako/productservice/model/Product$ProductBuilder.class
+com/ntsako/productservice/dto/ProductResponse.class
+com/ntsako/productservice/ProductServiceApplication.class
+com/ntsako/productservice/repository/ProductRepository.class
+com/ntsako/productservice/controller/ProductController.class
+com/ntsako/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/ntsako/productservice/service/ProductService.class
